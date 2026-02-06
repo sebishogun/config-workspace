@@ -1,0 +1,15 @@
+[submodule "LazyVim-Config"]
+	path = LazyVim-Config
+	url = https://github.com/sebishogun/LazyVim-Config.git
+[submodule "99"]
+	path = 99
+	url = https://github.com/sebishogun/99.git
+[submodule "IdeaVim-Config"]
+	path = IdeaVim-Config
+	url = https://github.com/sebishogun/IdeaVim-Config.git
+[submodule "VSCode-Config"]
+	path = VSCode-Config
+	url = https://github.com/sebishogun/VSCode-Config.git
+[submodule "Zed-Config"]
+	path = Zed-Config
+	url = https://github.com/sebishogun/Zed-Config.git
