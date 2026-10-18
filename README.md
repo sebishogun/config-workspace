@@ -5,7 +5,6 @@ Umbrella repo for quickly navigating all editor configuration repos.
 ## Included Submodules
 
 - `LazyVim-Config`
-- `99`
 - `IdeaVim-Config`
 - `VSCode-Config`
 - `Zed-Config`
@@ -28,15 +27,6 @@ git submodule update --init --recursive
 cd LazyVim-Config
 ./install.sh --dry-run
 ./install.sh
-```
-
-After install, verify in Neovim:
-
-```vim
-:NNStatus
-:lua require("99").doctor()
-:NNProvider <Tab>
-:NNModel <Tab>
 ```
 
 ## Notes
